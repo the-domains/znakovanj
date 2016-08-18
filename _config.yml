@@ -1,0 +1,14 @@
+layout_spectrum: 0.9041872282978147
+typography_spectrum: 0.5012736667413265
+color:
+  brandStrength: 0.08338515111245215
+  lightness: 0.3715576301328838
+  saturation: 0.09673119289800525
+  rhythmicContrast: 0.06234015175141394
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+name: znakovanj
