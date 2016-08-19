@@ -12,4 +12,8 @@ color:
     - '#253237'
 layout_spectrum: 0.9041872282978147
 name: znakovanj
+navigation:
+  - name: Pizzabon
+    id: ad6c5669-0650-4605-adea-45e205c90713
+    type: content
 title: Dobrodošli...Jeeeee!
