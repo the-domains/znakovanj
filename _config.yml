@@ -16,4 +16,7 @@ navigation:
   - name: Pizzabon
     id: ad6c5669-0650-4605-adea-45e205c90713
     type: content
+  - name: Products
+    id: e2a610a0-d673-4c6d-9154-f3d06a57f373
+    type: content
 title: Dobrodošli...Jeeeee!
